@@ -9,8 +9,7 @@ El impacto de la IA Generativa ha transformado la creación de software, haciend
 
 ```mermaid
 mindmap
-  root((La IA ha matado a Scrum
-  Javier Garzás))
+  root((La IA ha matado a Scrum)
     1. Obsolescencia Temporal
       Guía Scrum 2020 vs Era Agéntica
       Ruina del Sprint fijo de 2-4 semanas
