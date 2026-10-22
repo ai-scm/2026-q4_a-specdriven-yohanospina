@@ -5,7 +5,7 @@ El desarrollo guiado por especificaciones (*Spec-Driven Development* o SDD) rede
 
 ---
 
-## Representación Visual (Diagrama Mermaid)
+## Representación Visual
 
 ```mermaid
 mindmap
