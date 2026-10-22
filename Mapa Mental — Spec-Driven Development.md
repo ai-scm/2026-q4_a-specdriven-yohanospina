@@ -1,4 +1,4 @@
-# Paso 1: Mapa Mental — Spec-Driven Development (IBM Technology)
+# Paso 1: Mapa Mental — Spec-Driven Development
 
 ## Contexto y Visión General
 El desarrollo guiado por especificaciones (*Spec-Driven Development* o SDD) redefine la construcción de software con Inteligencia Artificial. A diferencia del *vibe coding* (programación informal por interacción libre con modelos generativos), el SDD establece las especificaciones como contratos formales y ejecutables que gobiernan la generación de código.
